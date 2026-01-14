@@ -1,16 +1,24 @@
 ## Hi there 👋
 
+# 👋 Ciao! Sono Isabel
 
-**IsabelCiartano/IsabelCiartano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 👨‍💻 Chi sono
+- 🎓 Studente di Robotica presso ITIS Mario DelPozzo
+- 💡 Interessato a sviluppo software e nuove tecnologie
+- 🌱 Attualmente sto imparando e migliorando le mie competenze ogni giorno
+---
+## 🛠 Competenze Tecniche
+- **Linguaggi:** Python, Java, C, JavaScript  
+- **Web:** HTML, CSS
+- **Strumenti:** Git, GitHub, VS Code
+---
+## 📚 In questo momento
+- 📖 Studio algoritmi e strutture dati
+- 🔨 Sviluppo piccoli progetti per migliorare le mie skill
+---
+## 📫 Contatti
+- 📧 Email: isabel.ciartano@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
 
